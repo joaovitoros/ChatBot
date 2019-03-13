@@ -1,0 +1,2 @@
+desligar
+comando de desligamento
